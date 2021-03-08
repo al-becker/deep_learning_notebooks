@@ -1,4 +1,3 @@
-Some notebooks created while experimenting with deep learning.
-Data and models are not contained.
-Links to the data are provided within the notebook.
-You have to train models for yourself.
+# machine learning notebooks
+A collection of notebooks created while experimenting with deep learning and machine learning in general.
+Data and models are not contained, but links ,that worked when the notebooks were created, to the data are provided within the notebook. The trained model is also not provided, you have to train it yourself.
