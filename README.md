@@ -1,4 +1,4 @@
-Some notebooks created while experimenting with deep learning.
+Some notebooks created while experimenting with machine learning.
 Data and models are not contained.
 Links to the data are provided within the notebook.
 You have to train models for yourself.
